@@ -46,7 +46,7 @@ password = input(alexText + " Key: ")
 
 sleep(2)
 
-if password == "a74s7b7nx8xz3":
+if password == "darkRed36":
     print(alexText + Fore.GREEN + " Key Başarılı")
     os.system("mode 360") or os.system("clear")
 
